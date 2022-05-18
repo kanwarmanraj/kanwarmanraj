@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?background=4C83FF00&multiline=true&height=50&lines=Hi+%F0%9F%91%8B+%2C+I+am+Kanwar+Manraj)](https://git.io/typing-svg)
 
+- 🌱 Co-Founder & CEO at SeriAmigo Pvt. Lt
 - 🌱 I'm currently working on to build something, that will revolutionize the student's college life.
 
 [![Linkedin Badge](https://img.shields.io/badge/-kanwarmanraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanwarmanraj/)](https://www.linkedin.com/in/kanwarmanraj/)
