@@ -2,7 +2,7 @@
 
 - 🎤 Co-Founder & CEO at SeriAmigo
 - 🌱 I'm currently working on to build something, that will revolutionize the student's college life.
-- 📧 Send me an email at kanwarmanraj@seriamigo.com to get in touch.
+- 📫 Send me an email at kanwarmanraj@seriamigo.com to get in touch.
 
 [![Linkedin Badge](https://img.shields.io/badge/-kanwarmanraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanwarmanraj/)](https://www.linkedin.com/in/kanwarmanraj/)
 [![Instagram Badge](https://img.shields.io/badge/-kanwar_manraj-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanwar_manraj/)](https://instagram.com/kanwar_manraj)
