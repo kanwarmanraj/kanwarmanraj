@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?background=4C83FF00&multiline=true&height=50&lines=Hi+%F0%9F%91%8B+%2C+I+am+Kanwar+Manraj)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%3Cp%3E+Hi+%F0%9F%91%8B++I+am+Kanwar+Manraj+%3C%2Fp%3E)](https://git.io/typing-svg)
 
 - 🎤 Co-Founder & CEO at SeriAmigo
 - 🌱 I'm currently working on to build something, that will revolutionize the student's college life.
