@@ -16,7 +16,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/kanwarmanraj" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/twitter-circled.png" alt="kanwarmanraj" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/kanwar_manraj" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/twitter-circled.png" alt="kanwar_manraj" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kanwarmanraj/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/452/linkedin.png" alt="kanwar manraj" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/kanwar_manraj" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/instagram-new--v2.png" alt="kanwarmanraj" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@kanwarmanraj" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/medium-new.png" alt="kanwarmanraj" height="50" width="50" /></a>
