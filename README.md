@@ -26,4 +26,3 @@ Currently, building SeriAmigo to make a difference in the growing Web 3.0 ecosys
 <a href="https://medium.com/@kanwarmanraj" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/medium-new.png" alt="kanwarmanraj" height="50" width="50" /></a>
 </p>
 
-  ![bottom_header](https://user-images.githubusercontent.com/52111130/169094846-f6bc7fa9-1432-4de7-bdfd-19a103c71876.svg)
