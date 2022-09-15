@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%3Cp%3E+Hi+%F0%9F%91%8B++I+am+Kanwar+Manraj+%3C%2Fp%3E)](https://git.io/typing-svg)
 
-I’m Co-Founder & CEO of SeriAmigo, a Social Community on Blockchain. SeriAmigo is a brainchild of young entrepreneurs who aspire to innovate through technology solutions.
+
 
  I am a blockchain and social token enthusiast who loves cutting-edge technology and is a believer in tech that being fundamentally more futuristic is crucial than technology happening the traditional way. Meeting and learning from individuals has taught me that a jack of all trades is a master of none, but oftentimes better than a master of one.
 
-Currently, building SeriAmigo to make a difference in the growing Web 3.0 ecosystem. Revolutionizing things is not a simple task, but remember to Turn the Sourest Lemon in Your Life into Something that Resembles Lemonade.
 
- 📫 Send an email to kanwarmanraj@seriamigo.com to get in touch.
+
 
 <br>
   
