@@ -2,7 +2,7 @@
 
 
 
- I am a blockchain and social token enthusiast who loves cutting-edge technology and is a believer in tech that being fundamentally more futuristic is crucial than technology happening the traditional way. Meeting and learning from individuals has taught me that a jack of all trades is a master of none, but oftentimes better than a master of one.
+
 
 
 
